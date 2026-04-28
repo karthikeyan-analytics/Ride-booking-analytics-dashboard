@@ -1,4 +1,4 @@
-# 🚖 Ride Booking Analytics Dashboard (Power BI)
+# 🚖 Ride Booking Analytics Dashboard 
 
 ---
 
