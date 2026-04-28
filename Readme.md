@@ -136,7 +136,17 @@ This project addresses these challenges by transforming raw data into actionable
 
 ## 📸 Dashboard Preview
 
-*(Add screenshots here)*
+<img width="1157" height="650" alt="image" src="https://github.com/user-attachments/assets/3f684334-193f-4d36-86d7-099fd27870e2" />
+
+<img width="1154" height="654" alt="image" src="https://github.com/user-attachments/assets/0100112d-090f-4489-8a96-5e4ec4d73d00" />
+
+<img width="1154" height="647" alt="image" src="https://github.com/user-attachments/assets/5839973b-d45a-4b41-b67b-febebe45ae76" />
+
+<img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/c04c980b-9fdf-420e-8a15-969013eb01f2" />
+
+
+
+
 
 ---
 
@@ -149,15 +159,20 @@ ride-booking-analytics-dashboard/
 │   ├── raw_dataset.csv
 │   └── cleaned_dataset.csv
 │
-├── dashboard/
-│   └── ride_dashboard.pbix
+├── Ola_Booking_and_Cancellation_Analysis_Dashboard.pbix
 │
-├── images/
-│   ├── overview.png
-│   ├── cancellation.png
-│   ├── demand.png
-│   └── revenue.png
-│
+├── Screenshots/
+│   ├── Overview.png
+│   ├── Cancellation_analysis.png
+│   ├── Demand_analysis.png
+│   └── Revenue&Performance.png
+│── Icons/
+│   ├── cabcel.png
+│   ├── clock.png
+│   ├── fare.png
+│   ├── revenue.png
+│   ├── taxi.png
+│   └── location.png
 └── README.md
 ```
 
