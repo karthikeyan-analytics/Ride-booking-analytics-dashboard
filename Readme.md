@@ -136,12 +136,13 @@ This project addresses these challenges by transforming raw data into actionable
 
 ## 📸 Dashboard Preview
 
+![Overview]
 <img width="1157" height="650" alt="image" src="https://github.com/user-attachments/assets/3f684334-193f-4d36-86d7-099fd27870e2" />
-
+![Cancellation]
 <img width="1154" height="654" alt="image" src="https://github.com/user-attachments/assets/0100112d-090f-4489-8a96-5e4ec4d73d00" />
-
+![Demand]
 <img width="1154" height="647" alt="image" src="https://github.com/user-attachments/assets/5839973b-d45a-4b41-b67b-febebe45ae76" />
-
+![Revenue]
 <img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/c04c980b-9fdf-420e-8a15-969013eb01f2" />
 
 
