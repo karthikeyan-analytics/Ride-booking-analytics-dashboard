@@ -194,8 +194,7 @@ ride-booking-analytics-dashboard/
 ## 👤 Author
 
 **Karthikeyan P**
-Aspiring Data Analyst
-Skills: Power BI | SQL | Excel
+
 
 ---
 
